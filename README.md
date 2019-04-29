@@ -7,8 +7,10 @@ This dataset is from HackerEarth. The Goal here is to come up with a model that 
 The metrics chosen for this problem is F1 score which is combined score of Precision and recall.
 
 
+Note: I'll update the notebook with required commenting soon..
 
-"""References articles, code """
+
+References Articles, Code snippets: 
 
 *The Modeling Flow/Process and code snippets are learned and taken from AppliedAI Course's StackOverFlow Tag Predictor Chapter. I highly recommend their online Course for data science..  
 
